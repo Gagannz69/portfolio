@@ -52,50 +52,8 @@ personal-portfolio/
 
 🚀 Getting Started
 
-Follow these steps to run the project locally.
-
-1. Clone the repository
-
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-
-2. Navigate to the project directory
-
-cd YOUR-REPOSITORY
-
-3. Install dependencies
-
-npm install
-
-4. Start the development server
-
-npm run dev
-
-5. Open in your browser
-
-Visit the local URL displayed in your terminal, usually:
-
-http://localhost:5173
-
-📸 Screenshots
-
-Screenshots of the portfolio will be added here.
-
-<!-- Add screenshots after completing the website -->🎯 Project Goals
-
-- Strengthen my frontend development skills.
-- Learn modern web development practices.
-- Build a professional online presence.
-- Understand responsive design and UI/UX principles.
-- Create a foundation for more advanced web development projects.
-
-🔮 Future Improvements
-
-- [ ] Add a functional contact form.
-- [ ] Integrate backend functionality.
-- [ ] Add more projects and achievements.
-- [ ] Implement advanced animations.
-- [ ] Improve SEO and website accessibility.
-- [ ] Deploy the website using Vercel or GitHub Pages.
+click on the link to see my project.
+https://gaganzzz99-portfolio.vercel.app/
 
 👨‍💻 About Me
 
